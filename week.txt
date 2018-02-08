@@ -3,3 +3,4 @@ monady
 tuesday
 wednesday
 thursday
+friday - edit in master barnch without conflicts

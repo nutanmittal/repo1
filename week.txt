@@ -4,3 +4,4 @@ tuesday
 wednesday
 thursday
 friday - edit in master barnch without conflicts
+saturday - edit in b3 with conflict

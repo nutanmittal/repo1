@@ -1,2 +1,5 @@
 friday
 monady
+tuesday
+wednesday
+thursday
